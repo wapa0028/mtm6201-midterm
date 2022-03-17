@@ -49,11 +49,62 @@ table {
 
 /* my code */
 
+body{
+    background-color: #F9FBF2;
+}
 
-.ul {
-    font-family: 'Alata', sans-serif;
+
+footer{
+    background-color: #C2F3FF;
+}
+
+nav{
+    background-color: #C2F3FF;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+h1{
+      font-family: "Barlow", sans-serif;
+      font-style: italic;
+      font-size: 56px;
+  }
+
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 45px;
+}
+
+h3{
+    font-family: "Barlow", sans-serif;
+    font-style: italic;
     font-size: 48px;
 }
-.footer{
-    background-color: #b6b9b6;
+
+h4{
+    font-family: "Barlow", sans-serif;
+    font-style: italic;
+    font-size: 30px;
+}
+
+h5{
+    font-family: "Barlow", sans-serif;
+    font-style: thin;
+    font-size: 25px;
+}
+
+h6{
+    font-family: "Barlow", sans-serif;
+    font-style: thin;
+    font-size: 42px;
+}
+
+.bannertxt{
+    color: white;
+    text-align: center;
 }
